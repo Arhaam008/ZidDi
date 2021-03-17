@@ -1,0 +1,2 @@
+# ZidDi
+Termux
